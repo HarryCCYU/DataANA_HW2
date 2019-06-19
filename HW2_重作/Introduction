@@ -1,1 +1,5 @@
+本次作業二重做，資料來源由原先法源網改為司法院資料檢索系統:https://law.judicial.gov.tw/FJUD/default_AD.aspx
 
+Scrapy.ipynb 爬蟲該資料網的判決書，本次作業爬蟲民國100/1/1到民國108/6/1地方法院民法第1052條的判決結果用以實作Decision Tree。
+Data_Preprocessing.ipynb 過濾爬取出來的資料，首先濾掉與離婚判決無關的資料，並且整理出judten.csv檔提供分析。
+DataANA.ipyng 包含分析data以及實作decision tree。
